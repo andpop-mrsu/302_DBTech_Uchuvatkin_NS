@@ -1,0 +1,2 @@
+версия 3.42.1
+ascii, box, csv, column, html, json, line, list, markdown, quote, table, tabs, insert, tcl
